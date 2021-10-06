@@ -20,7 +20,7 @@
   
   _where  0 = Tie,  1 and -2  player A wins, 2 and -1 Player B wins._
 + _I create a function that receives the variable $gameModCalculation and evaluate who wins._
-+ _Additional, we have en el folder 'images'  rock.jpeg, paper.jpeg, and scissors.jpeg and we display them according to the number assign to each player_
++ _Additional, we have in the folder 'images'  rock.jpeg, paper.jpeg, and scissors.jpeg and we display them according to the number assign to each player_
 
 
 ## Outside resources
@@ -29,3 +29,4 @@ Jermy Grifski  (https://therenegadecoder.com/code/rock-paper-scissors-using-modu
 
 ## Notes for instructor
 The system randomly assigns each player's choice. Please refresh the page to play again.
+

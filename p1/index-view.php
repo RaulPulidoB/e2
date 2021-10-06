@@ -6,7 +6,7 @@
   <title>RP - Rock-Paper-Scissors</title>
   <link rel="stylesheet" href="/css/main.css">
 </head>
-
+ 
 <body class="centered-wrapper">
   <h1>Project 1 - Game -Rock-Paper-Scissors</h1>
   <h2>Mechanics</h2>
