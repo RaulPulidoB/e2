@@ -1,0 +1,67 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container {
+  font-weight: 100;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:54%;
+}
+
+.btn-gradient {
+  margin: 10px;
+}
+
+.blue {
+  background: #6698cb;
+}
+
+.block {
+  width: 30%;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#logo {
+    width:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:54%;
+}
+
+.alert {
+  background-color: red;
+  animation-name: required;
+  animation-duration: 5s;
+}
+
+@keyframes required {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}

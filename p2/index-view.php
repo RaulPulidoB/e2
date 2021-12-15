@@ -29,7 +29,7 @@
       <div class="container">
         <h3>Select your choice</h3>
         <input type="radio" name="choice" value="0" id="rock-radio">
-        <label for="rock-radio"><img src="/images/rock.jpeg" width="100" height='100'></label>
+        <label for="rock-radio"><img src="/images/rock.jpeg" width="100" height='100' ></label>
         <input type="radio" name="choice" value="1" id="paper-radio">
         <label for="paper-radio"><img src="/images/paper.jpeg" width="100" height='100'></label>
         <input type="radio" name="choice" value="2" id="scissors-radio">
