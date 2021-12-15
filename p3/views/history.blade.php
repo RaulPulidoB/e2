@@ -14,5 +14,4 @@ Round History
         @endforeach
     </ul>
 </div>
-
 @endsection

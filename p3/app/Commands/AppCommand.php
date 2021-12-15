@@ -6,6 +6,11 @@ use Faker\Factory;
 
 class AppCommand extends Command
 {
+    public function fresh()
+    {
+        $this->migrate();
+        $this->seed();
+    }
     public function migrate()
     {
         $this->app->db()->createTable('rounds', [
