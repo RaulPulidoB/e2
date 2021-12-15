@@ -9,7 +9,7 @@ $game = array('rock', 'paper', 'scissors');
 
 #Create the variable for computer and Randomly assing a value between 0 and 2
 $computer = rand(0, 2);
-
+ 
 # Verify who is the winner
 $winner = gameCheck($choice, $computer);
 
